@@ -1,0 +1,7 @@
+# Compiled output
+*.o
+*.wasm
+*.out
+
+# Local settings
+.vscode/
